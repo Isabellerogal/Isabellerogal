@@ -68,3 +68,56 @@ Aplicação web desenvolvida com HTML, CSS e JavaScript para calcular e classifi
 <b>CODE · CREATE · LEARN · REPEAT</b>
 
 </div>
+
+
+---
+
+### PAINEL DE MISSÕES
+
+![Developer Mode](https://img.shields.io/badge/DEVELOPER_MODE-ON-FF4500?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/STATUS-EM_APRENDIZADO-FF6A00?style=for-the-badge&logoColor=white)
+
+**MISSÃO ATUAL: BACK-END DEVELOPMENT**
+
+Meu próximo desafio é desenvolver um Sistema de Gerenciamento de Chamados de TI utilizando banco de dados.
+
+**Tecnologias da missão**
+
+![Node.js](https://img.shields.io/badge/Node.js-FF4500?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF4500?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF4500?style=flat-square&logoColor=white)
+![API](https://img.shields.io/badge/REST_API-FF4500?style=flat-square&logoColor=white)
+
+---
+
+### MINHAS PRÓXIMAS MISSÕES
+
+<details>
+<summary><b>ACESSAR LISTA DE MISSÕES</b></summary>
+
+#### Progresso de desenvolvimento
+
+- [x] Criar meu primeiro projeto web
+- [x] Publicar a Calculadora de IMC no GitHub
+- [x] Publicar um site com GitHub Pages
+- [ ] Aprender Node.js e Express
+- [ ] Criar meu primeiro banco PostgreSQL
+- [ ] Desenvolver uma API REST
+- [ ] Construir um sistema CRUD
+- [ ] Publicar meu Sistema de Chamados de TI
+
+</details>
+
+
+---
+
+### ESTATÍSTICAS DE DESENVOLVIMENTO
+
+<div align="center">
+
+![Estatísticas da Isabelle](https://ghstats.dev/api/card?username=Isabellerogal&bg=0D1117&text=FFFFFF&title_color=FF5A00&icon_color=FF6A00&border_color=FF4500)
+
+</div>
+
+
+
