@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./banner_github_neon_laranja_animado.gif" width="100%" alt="Banner neon da Isabelle">
+  <img src="./Banner%20neon%20de%20Isabelle%20em%20loop.gif" width="100%" alt="Banner neon da Isabelle">
 </div>
